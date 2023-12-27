@@ -1,0 +1,7 @@
+pandas==1.5.1
+torch
+torchvision
+scikit-learn==1.2.0
+tqdm==4.59.0
+pymysql==1.0.2
+sqlalchemy==1.4.16

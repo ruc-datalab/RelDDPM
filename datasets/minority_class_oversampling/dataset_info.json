@@ -1,0 +1,26 @@
+{
+    "default":{
+        "label": "label",
+        "minority_classes": [1],
+        "n_samples": [13432],
+        "average": "binary",
+        "epochs": 10
+    },
+
+    "shoppers":{
+        "label": "label",
+        "minority_classes": [1],
+        "n_samples": [6750],
+        "average": "binary",
+        "epochs": 10
+    },
+
+    "weatherAUS":{
+        "label": "label",
+        "minority_classes": [1],
+        "n_samples": [25288],
+        "average": "binary",
+        "epochs": 10
+    }
+
+}
